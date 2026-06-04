@@ -2,7 +2,7 @@
 
 An embedded environmental monitoring and irrigation control system designed to help maintain healthy plant conditions using real-time sensor feedback, automatic watering, local display output, and planned wireless data logging.
 
-This is a personal project being developed as a practical, resume-worthy embedded systems project focused on sensor integration, control logic, low-voltage hardware design, data logging, and system documentation.
+This is a personal project being developed as a practical, resume-worthy embedded system focused on sensor integration, control logic, low-voltage hardware design, data logging, and system documentation.
 
 ## Project Status
 
